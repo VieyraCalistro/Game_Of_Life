@@ -1,0 +1,48 @@
+C:\Users\Calistro Vieyra\source\repos\Game of Life\Game of Life\bin\Debug\Game of Life.exe.config
+C:\Users\Calistro Vieyra\source\repos\Game of Life\Game of Life\bin\Debug\Game of Life.exe
+C:\Users\Calistro Vieyra\source\repos\Game of Life\Game of Life\bin\Debug\Game of Life.pdb
+C:\Users\Calistro Vieyra\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\source\repos\Game of Life\Game of Life\obj\Debug\Game_of_Life.Form1.resources
+C:\Users\Calistro Vieyra\source\repos\Game of Life\Game of Life\obj\Debug\Game_of_Life.Properties.Resources.resources
+C:\Users\Calistro Vieyra\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.csproj.GenerateResource.cache
+C:\Users\Calistro Vieyra\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.exe
+C:\Users\Calistro Vieyra\source\repos\Game of Life\Game of Life\obj\Debug\Game of Life.pdb
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\bin\Debug\Game of Life.exe.config
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\bin\Debug\Game of Life.exe
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\bin\Debug\Game of Life.pdb
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.Form1.resources
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.Properties.Resources.resources
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.csproj.GenerateResource.cache
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.exe
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.pdb
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.Options_Dialog.resources
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.FromSeedDialog.resources
+C:\Users\Calistro Vieyra\Desktop\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.ImportFileFail.resources
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\bin\Debug\Game of Life.exe.config
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\bin\Debug\Game of Life.exe
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\bin\Debug\Game of Life.pdb
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.Form1.resources
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.FromSeedDialog.resources
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.ImportFileFail.resources
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.Options_Dialog.resources
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.Properties.Resources.resources
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.csproj.GenerateResource.cache
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.exe
+C:\Users\Calistro Vieyra\Desktop\Charles Rainey\Calistro_Vieyra_GameofLife\Calistro_Vieyra_GameofLife\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.pdb
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\bin\Debug\Game of Life.exe.config
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\bin\Debug\Game of Life.exe
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\bin\Debug\Game of Life.pdb
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.Form1.resources
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.FromSeedDialog.resources
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.ImportFileFail.resources
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.Options_Dialog.resources
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game_of_Life.Properties.Resources.resources
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.csproj.GenerateResource.cache
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.exe
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro_Vieyra_Game of Life\Game of Life\obj\Debug\Game of Life.pdb
